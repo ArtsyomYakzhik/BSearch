@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{A2319992-9D8C-481D-8B44-FC562B92454D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSearch", "BinarySearch\BSearch.csproj", "{A2319992-9D8C-481D-8B44-FC562B92454D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
