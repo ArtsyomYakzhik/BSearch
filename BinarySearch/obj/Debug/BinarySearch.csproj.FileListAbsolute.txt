@@ -1,0 +1,7 @@
+C:\Users\UBeast\Documents\Visual Studio 2017\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\UBeast\Documents\Visual Studio 2017\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\UBeast\Documents\Visual Studio 2017\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\UBeast\Documents\Visual Studio 2017\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\UBeast\Documents\Visual Studio 2017\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\UBeast\Documents\Visual Studio 2017\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\UBeast\Documents\Visual Studio 2017\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
