@@ -10,7 +10,7 @@ namespace BSearch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(bsearch(new int[] { 16, 10, 7, 5, 5}, 5));
+            Console.WriteLine(bsearch(new int[] { 16, 10, 7, 5, 4}, 5));
         }
 
         static int bsearch(int[] sortedArray, int X)
