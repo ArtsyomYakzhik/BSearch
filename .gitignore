@@ -1,4 +1,4 @@
 .vs/
-BSearch/bin/
+BSearch\obj
 BSearch/Properties/
-BSearch/obj/
+BSearch\obj
